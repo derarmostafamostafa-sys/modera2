@@ -7,3 +7,4 @@ openai
 supabase
 python-dotenv
 pillow
+python-multipart
