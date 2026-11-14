@@ -1,1 +1,9 @@
-
+fastapi
+uvicorn
+gunicorn
+pydantic
+requests
+openai
+supabase
+python-dotenv
+pillow
